@@ -1,0 +1,25 @@
+[{
+        "id": 1,
+        "foto": "../images/landingPage.svg",
+        "nombre": "Landing Page",
+        "precio": 10000
+    },
+    {
+        "id": 2,
+        "foto": "../images/sitioWeb.svg",
+        "nombre": "Web profesional",
+        "precio": 20000
+    },
+    {
+        "id": 3,
+        "foto": "../images/tiendaOnline.svg",
+        "nombre": "Tienda online emprendedor",
+        "precio": 30000
+    },
+    {
+        "id": 4,
+        "foto": "../images/tiendaonlinepyme.svg",
+        "nombre": "Tienda online Pyme",
+        "precio": 40000
+    }
+]
